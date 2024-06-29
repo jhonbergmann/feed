@@ -4,7 +4,8 @@ export const posts: TPost[] = [
   {
     id: 1,
     author: {
-      avatarUrl: '/src/assets/users/jane-cooper.png',
+      avatarUrl:
+        'https://raw.githubusercontent.com/jhonbergmann/feed/main/src/assets/users/jane-cooper.png?token=GHSAT0AAAAAACTG2WD4JWXKDZ45B7KQP3XQZT7KFAQ',
       name: 'Jane Cooper',
       role: 'Dev Front-End',
     },
@@ -22,7 +23,8 @@ export const posts: TPost[] = [
   {
     id: 2,
     author: {
-      avatarUrl: '/src/assets/users/devon-lane.png',
+      avatarUrl:
+        'https://raw.githubusercontent.com/jhonbergmann/feed/main/src/assets/users/devon-lane.png?token=GHSAT0AAAAAACTG2WD4USUXHI27WCHUTCHUZT7KDYA',
       name: 'Devon Lane',
       role: 'Dev Front-End',
     },

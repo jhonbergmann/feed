@@ -3,7 +3,6 @@ import {ThumbsUp, Trash} from 'phosphor-react'
 
 import {TCommentProps} from './data'
 import {Avatar} from '@/components/Avatar'
-import userImage from '@/assets/users/leslie-alexander.png'
 import styles from './styles.module.css'
 
 export function Comment({content, onDeleteComment}: TCommentProps) {
@@ -21,7 +20,11 @@ export function Comment({content, onDeleteComment}: TCommentProps) {
 
   return (
     <div className={styles.comment}>
-      <Avatar hasBorder={false} src={userImage} alt="" />
+      <Avatar
+        hasBorder={false}
+        src="https://raw.githubusercontent.com/jhonbergmann/feed/main/src/assets/users/leslie-alexander.png?token=GHSAT0AAAAAACTG2WD5UUPRMM7LVMDTTW24ZT7KFRA"
+        alt=""
+      />
       <div className={styles.commentBox}>
         <div className={styles.commentContent}>
           <header>
