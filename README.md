@@ -14,7 +14,7 @@
 </p>
 
 ## 🔺 Demo
-### [Live Demo, click here](https://feed-woad.vercel.app/)
+### [Live Demo, click here](https://feed-jhonatan-bergmann.vercel.app/)
 
 ## 📦 Tech Stack
 
