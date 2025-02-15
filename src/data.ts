@@ -4,17 +4,16 @@ export const posts: TPost[] = [
   {
     id: 1,
     author: {
-      avatarUrl:
-        'https://raw.githubusercontent.com/jhonbergmann/feed/main/src/assets/users/jane-cooper.png?token=GHSAT0AAAAAACTG2WD4JWXKDZ45B7KQP3XQZT7KFAQ',
-      name: 'Jane Cooper',
-      role: 'Dev Front-End',
+      avatarUrl: 'https://avatars.githubusercontent.com/alijalloul',
+      name: 'Ali Jalloul',
+      role: 'alijalloul',
     },
     content: [
       {type: 'paragraph', content: 'Fala galera 👋'},
       {
         type: 'paragraph',
         content:
-          'Acabei de subir mais um projeto no meu portifa. É um projeto que fiz em um evento. O nome do projeto é DoctorCare 🚀',
+          'Acabei de subir mais um projeto no meu portfólio. É um projeto que fiz em um evento. O nome do projeto é DoctorCare 🚀',
       },
       {type: 'link', content: 'jane.design/doctorcare'},
     ],
@@ -23,10 +22,9 @@ export const posts: TPost[] = [
   {
     id: 2,
     author: {
-      avatarUrl:
-        'https://raw.githubusercontent.com/jhonbergmann/feed/main/src/assets/users/devon-lane.png?token=GHSAT0AAAAAACTG2WD4USUXHI27WCHUTCHUZT7KDYA',
-      name: 'Devon Lane',
-      role: 'Dev Front-End',
+      avatarUrl: 'https://avatars.githubusercontent.com/Nafanya-dev',
+      name: 'Viacheslav Gaevskii',
+      role: 'Backend Developer',
     },
     content: [
       {type: 'paragraph', content: 'Fala galera 👋'},
