@@ -6,7 +6,7 @@ export const posts: TPost[] = [
     author: {
       avatarUrl: 'https://avatars.githubusercontent.com/alijalloul',
       name: 'Ali Jalloul',
-      role: 'alijalloul',
+      role: 'Fullstack Developer',
     },
     content: [
       {type: 'paragraph', content: 'Fala galera 👋'},
@@ -15,7 +15,7 @@ export const posts: TPost[] = [
         content:
           'Acabei de subir mais um projeto no meu portfólio. É um projeto que fiz em um evento. O nome do projeto é DoctorCare 🚀',
       },
-      {type: 'link', content: 'jane.design/doctorcare'},
+      {type: 'link', content: 'ali.project/doctorcare'},
     ],
     publishedAt: new Date('2022-05-03 20:00:00'),
   },
@@ -33,7 +33,7 @@ export const posts: TPost[] = [
         content:
           'Finalmente finalizei meu novo site/portfólio. Foi um baita desafio criar todo o design e codar na unha, mas consegui 💪🏻',
       },
-      {type: 'link', content: 'devonlane.design'},
+      {type: 'link', content: 'viacheslav.design'},
     ],
     publishedAt: new Date('2022-05-10 20:00:00'),
   },
